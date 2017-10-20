@@ -12,7 +12,7 @@ class App extends Component {
         <Navbar titulo='REACT' cor='green' />
         <div className='container'>
           <Titulo />
-          <ListaCartao qtdLinha='4' tamanhoCol='3' />
+          <ListaCartao qtdLinha='5' tamanhoCol='4' />
         </div>
       </div>
 
